@@ -1,3 +1,5 @@
+A fork for adding callback on notification dismiss for Android 14 which allow this behaviour
+
 This plugin is used to implement a foreground service on the Android platform.
 
 [![pub package](https://img.shields.io/pub/v/flutter_foreground_task.svg)](https://pub.dev/packages/flutter_foreground_task)
